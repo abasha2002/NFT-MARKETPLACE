@@ -21,7 +21,9 @@ function ArtistPage() {
 				</div>
 				<Container>
 					<Row>
-						<Col md={8} xs={12}></Col>
+						<Col md={8} xs={12}>
+							
+						</Col>
 						<Col md={4} className='d-none d-md-block'></Col>
 					</Row>
 				</Container>

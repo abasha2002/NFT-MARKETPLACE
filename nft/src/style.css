@@ -600,7 +600,9 @@ footer .line{
 
 
 /*Section3 styles*/
-
+.home-section3 a{
+    text-decoration: none;
+}
 .home-section3 .userProfile{
     padding: 20px;
     background: #3B3B3B;
