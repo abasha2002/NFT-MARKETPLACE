@@ -29,7 +29,7 @@ function Signup() {
         <Container fluid className='cont'>
             <Row>
                 <Col lg={6} md={12} className='account-page'>
-                    <img className='w-100' src={AnotherPlanet} />
+                    <img className='w-100' src={AnotherPlanet} alt='Planet'/>
                 </Col>
                 <Col lg={6} md={12} className='d-flex align-items-center text-center auth'>
                     <div className='w-100'>

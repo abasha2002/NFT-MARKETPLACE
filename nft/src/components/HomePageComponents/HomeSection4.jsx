@@ -17,8 +17,8 @@ function HomeSection4() {
             <Col xl={3} lg={4} md={4} xs={6} className='mt-4'>
               <div className='categoryCard'>
                 <div className='position-relative categoryCardImage'>
-                  <img className='categoryBackImages' src={section4Images.whale} alt="image of a painted whales"/>
-                  <img className='categoryIcons' src={section4Images.paintBrush} alt="icon of a paint brush" />
+                  <img className='categoryBackImages' src={section4Images.whale} alt="Painted whales"/>
+                  <img className='categoryIcons' src={section4Images.paintBrush} alt="Icon of a paint brush" />
                 </div>
                 <div className='categoryCardDescription'>
                   <p>Art</p>
@@ -29,8 +29,8 @@ function HomeSection4() {
             <Col xl={3} lg={4} md={4} xs={6} className='mt-4'>
               <div className='categoryCard'>
                 <div className='position-relative categoryCardImage'>
-                  <img className='categoryBackImages' src={section4Images.monkey} alt="image of a pained monkey"/>
-                  <img className='categoryIcons' src={section4Images.Pcard} alt="icon of a portable card" />
+                  <img className='categoryBackImages' src={section4Images.monkey} alt="Pained monkey"/>
+                  <img className='categoryIcons' src={section4Images.Pcard} alt="Icon of a portable card" />
                 </div>
                 <div className='categoryCardDescription'>
                   <p>colectibles</p>
@@ -41,8 +41,8 @@ function HomeSection4() {
             <Col xl={3} lg={4} md={4} xs={6} className='mt-4'>
               <div className='categoryCard'>
                 <div className='position-relative categoryCardImage'>
-                  <img className='categoryBackImages' src={section4Images.guitar} alt="image of a pained guitar"/>
-                  <img className='categoryIcons' src={section4Images.musicNote} alt="icon of a music note" />
+                  <img className='categoryBackImages' src={section4Images.guitar} alt="Pained guitar"/>
+                  <img className='categoryIcons' src={section4Images.musicNote} alt="Icon of a music note" />
                 </div>
                 <div className='categoryCardDescription'>
                   <p>Music</p>
@@ -53,8 +53,8 @@ function HomeSection4() {
             <Col xl={3} lg={4} md={4} xs={6} className='mt-4'>
               <div className='categoryCard'>
                 <div className='position-relative categoryCardImage'>
-                  <img className='categoryBackImages' src={section4Images.oldMan} alt="image of a pained old man"/>
-                  <img className='categoryIcons' src={section4Images.Camera} alt="icon of a camera" />
+                  <img className='categoryBackImages' src={section4Images.oldMan} alt="Painted old man"/>
+                  <img className='categoryIcons' src={section4Images.Camera} alt="Icon of a camera" />
                 </div>
                 <div className='categoryCardDescription'>
                   <p>Photography</p>
@@ -65,8 +65,8 @@ function HomeSection4() {
             <Col xl={3} lg={4} md={4} xs={6} className='mt-4'>
               <div className='categoryCard'>
                 <div className='position-relative categoryCardImage'>
-                  <img className='categoryBackImages' src={section4Images.sky} alt="image of a pained sky"/>
-                  <img className='categoryIcons' src={section4Images.Video} alt="icon of a video camera" />
+                  <img className='categoryBackImages' src={section4Images.sky} alt="Pained sky"/>
+                  <img className='categoryIcons' src={section4Images.Video} alt="Icon of a video camera" />
                 </div>
                 <div className='categoryCardDescription'>
                   <p>Video</p>
@@ -77,8 +77,8 @@ function HomeSection4() {
             <Col xl={3} lg={4} md={4} xs={6} className='mt-4'>
               <div className='categoryCard'>
                 <div className='position-relative categoryCardImage'>
-                  <img className='categoryBackImages' src={section4Images.strangeKey} alt="image of a pained key"/>
-                  <img className='categoryIcons' src={section4Images.magicWand} alt="icon of a magic wand" />
+                  <img className='categoryBackImages' src={section4Images.strangeKey} alt="Pained key"/>
+                  <img className='categoryIcons' src={section4Images.magicWand} alt="Icon of a magic wand" />
                 </div>
                 <div className='categoryCardDescription'>
                   <p>Utility</p>
@@ -89,8 +89,8 @@ function HomeSection4() {
             <Col xl={3} lg={4} md={4} xs={6} className='mt-4'>
               <div className='categoryCard'>
                 <div className='position-relative categoryCardImage'>
-                  <img className='categoryBackImages' src={section4Images.ball} alt="image of a pained ball"/>
-                  <img className='categoryIcons' src={section4Images.basketball} alt="icon of a basketball" />
+                  <img className='categoryBackImages' src={section4Images.ball} alt="Pained ball"/>
+                  <img className='categoryIcons' src={section4Images.basketball} alt="Icon of a basketball" />
                 </div>
                 <div className='categoryCardDescription'>
                   <p>Sport</p>
@@ -101,8 +101,8 @@ function HomeSection4() {
             <Col xl={3} lg={4} md={4} xs={6} className='mt-4'>
               <div className='categoryCard'>
                 <div className='position-relative categoryCardImage'>
-                  <img className='categoryBackImages' src={section4Images.spaceCity} alt="image of a painted space city"/>
-                  <img className='categoryIcons' src={section4Images.planet} alt="icon of a planet" />
+                  <img className='categoryBackImages' src={section4Images.spaceCity} alt="Painted space city"/>
+                  <img className='categoryIcons' src={section4Images.planet} alt="Icon of a planet" />
                 </div>
                 <div className='categoryCardDescription'>
                   <p>Virtual Worlds</p>

@@ -19,7 +19,7 @@ function HomeSection7() {
 
         	<Col lg={4} md={6} xs={12} className='mt-4'>
 						<div className='cards'>
-							<img src={workFiles} alt="image of files" />
+							<img src={workFiles} alt="Work files" />
 							<div>
 								<h3>Setup Your Wallet</h3>
 								<p>Set up your wallet of choice. Connect it to the Animarket by clicking the wallet icon in the top right corner.</p>
@@ -29,7 +29,7 @@ function HomeSection7() {
 
 					<Col lg={4} md={6} xs={12} className='mt-4'>
 						<div className='cards'>
-							<img src={musicFiles} alt="image of files" />
+							<img src={musicFiles} alt="Music files" />
 							<div>
 								<h3>Create Collection</h3>
 								<p>Upload your work and setup your collection. Add a description, social links and floor price.</p>
@@ -39,7 +39,7 @@ function HomeSection7() {
 
 					<Col lg={4} md={6} xs={12} className='mt-4'>
 						<div className='cards'>
-							<img src={marketFiles} alt="image of files" />
+							<img src={marketFiles} alt="Market files" />
 							<div>
 								<h3>Start Earning</h3>
 								<p>Choose between auctions and fixed-price listings. Start earning by selling your NFTs or trading others.</p>

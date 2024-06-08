@@ -25,12 +25,12 @@ function HomeSection5() {
           <Col lg={4} md={6} xs={12} className='mt-4'>
             <div className='discoverCard'>
               <div className='discoverCardImg'>
-                <img src={section5Images.spaceship} alt="image of a spaceship" />
+                <img src={section5Images.spaceship} alt="Spaceship" />
               </div>
               <div className='discoverCardDescription'>
                 <div>
                   <h3>Distant Galaxy</h3>
-                  <h6><img className='me-2' src={nftImages.avatar6} alt="user profile picture of a girl" />MoonDancer</h6>
+                  <h6><img className='me-2' src={nftImages.avatar6} alt="Girl" />MoonDancer</h6>
                 </div>
                 <div className='d-flex justify-content-between align-items-center mt-4'>
                   <div>
@@ -49,12 +49,12 @@ function HomeSection5() {
           <Col lg={4} md={6} xs={12} className='mt-4'>
             <div className='discoverCard'>
               <div className='discoverCardImg'>
-                <img src={section5Images.sky} alt="image of a spaceship" />
+                <img src={section5Images.sky} alt="Sky" />
               </div>
               <div className='discoverCardDescription'>
                 <div>
                   <h3>Life On Edena</h3>
-                  <h6><img className='me-2' src={nftImages.avatar7} alt="user profile picture of a girl" />NebulaKid</h6>
+                  <h6><img className='me-2' src={nftImages.avatar7} alt="Boy" />NebulaKid</h6>
                 </div>
                 <div className='d-flex justify-content-between align-items-center mt-4'>
                   <div>
@@ -73,12 +73,12 @@ function HomeSection5() {
           <Col lg={4} md={6} xs={12} className='mt-4'>
             <div className='discoverCard'>
               <div className='discoverCardImg'>
-                <img src={section5Images.astronaut} alt="image of a spaceship" />
+                <img src={section5Images.astronaut} alt="Astronaut" />
               </div>
               <div className='discoverCardDescription'>
                 <div>
                   <h3>AstroFiction</h3>
-                  <h6><img className='me-2' src={nftImages.avatar4} alt="user profile picture of a girl" />Spaceone</h6>
+                  <h6><img className='me-2' src={nftImages.avatar4} alt="Girl" />Spaceone</h6>
                 </div>
                 <div className='d-flex justify-content-between align-items-center mt-4'>
                   <div>

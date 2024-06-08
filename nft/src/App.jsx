@@ -8,6 +8,7 @@ import Marketplace from './pages/Marketplace';
 import Rankings from './pages/Rankings';
 import Wallet from './pages/Wallet';
 import ArtistPage from './pages/ArtistPage';
+import Collection from './pages/Collection';
 
 import "@fontsource/work-sans"; 
 import "@fontsource/space-mono";
@@ -24,6 +25,7 @@ function App(){
           <Route path="/rankings" element={<Rankings />} />
           <Route path="/wallet" element={<Wallet />} />
           <Route path="/artist" element={<ArtistPage />} />
+          <Route path="/collection" element={<Collection />} />
         </Routes>
       </Router>
     );

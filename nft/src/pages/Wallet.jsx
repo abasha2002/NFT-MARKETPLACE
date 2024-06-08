@@ -19,7 +19,7 @@ function Wallet() {
 				<Container fluid className=''>
 					<Row className='position-relative'>
 						<Col md={6} xs={12} className='image p-0 d-none d-md-block'>
-							<img className='w-100' src={image} alt="image of a space ship"/>
+							<img className='w-100' src={image} alt="Space ship"/>
 						</Col>
 						<Col md={6} xs={12} className='d-flex align-items-center content'>
 							<div className='w-100 d-flex wallet'>

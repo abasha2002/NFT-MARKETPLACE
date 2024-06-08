@@ -22,22 +22,22 @@ function HomeSection2() {
                 <div className='position-relative profile'>
                   <div className='position-absolute profileCheck'>
                   </div>
-                  <Link to='/artist'>
+                  <Link to='/collection'>
                     <button className='seeMore'>
                       <h3>See more</h3>
                     </button>
                   </Link>
-                  <img className='images' src={nftImages.dog} alt="Image of a dog" />
+                  <img className='images' src={nftImages.dog} alt="Dog" />
                 </div>
               </Col>
               <Col xs={4}>
                 <div>
-                  <img className='images' src={nftImages.cat} alt="Image of a cat" />
+                  <img className='images' src={nftImages.cat} alt="Cat" />
                 </div>
               </Col>
               <Col xs={4}>
                 <div>
-                  <img className='images' src={nftImages.bear} alt="Image of a bear" />
+                  <img className='images' src={nftImages.bear} alt="Bear" />
                 </div>
               </Col>
               <Col xs={4}>
@@ -48,7 +48,7 @@ function HomeSection2() {
             </Row>
             <div>
               <h5>DSGN Animals</h5>
-              <p className='creator'><img className='me-2' src={nftImages.avatar3} alt="Image of a fox" /> MrFox</p>
+              <p className='creator'><img className='me-2' src={nftImages.avatar3} alt="Fox" /> MrFox</p>
             </div>
           </Col>
 
@@ -58,22 +58,22 @@ function HomeSection2() {
                 <div className='position-relative profile'>
                   <div className='position-absolute profileCheck'>
                   </div>
-                  <Link to='/artist'>
+                  <Link to='/collection'>
                     <button className='seeMore'>
                       <h3>See more</h3>
                     </button>
                   </Link>
-                  <img className='images' src={nftImages.mainMushroom} alt="Image of a mushroom" />
+                  <img className='images' src={nftImages.mainMushroom} alt="Mushroom" />
                 </div>
               </Col>
               <Col xs={4}>
                 <div>
-                  <img className='images' src={nftImages.secondaryMushroom1} alt="Image of a mushroom" />
+                  <img className='images' src={nftImages.secondaryMushroom1} alt="Mushroom" />
                 </div>
               </Col>
               <Col xs={4}>
                 <div>
-                  <img className='images' src={nftImages.secondaryMushroom2} alt="Image of a mushroom" />
+                  <img className='images' src={nftImages.secondaryMushroom2} alt="Mushroom" />
                 </div>
               </Col>
               <Col xs={4}>
@@ -84,7 +84,7 @@ function HomeSection2() {
             </Row>
             <div>
               <h5>DSGN Animals</h5>
-              <p className='creator'><img className='me-2' src={nftImages.avatar1} alt="Image of a human" /> Shroomie</p>
+              <p className='creator'><img className='me-2' src={nftImages.avatar1} alt="Boy" /> Shroomie</p>
             </div>
           </Col>
 
@@ -94,22 +94,22 @@ function HomeSection2() {
                 <div className='position-relative profile'>
                   <div className='position-absolute profileCheck'>
                   </div>
-                  <Link to='/artist'>
+                  <Link to='/collection'>
                     <button className='seeMore'>
                       <h3>See more</h3>
                     </button>
                   </Link>
-                  <img className='images' src={nftImages.mainRobot} alt="Image of a robot" />
+                  <img className='images' src={nftImages.mainRobot} alt="Robot" />
                 </div>  
               </Col>
               <Col xs={4}>
                 <div>
-                  <img className='images' src={nftImages.secondaryRobot1} alt="Image of a robot" />
+                  <img className='images' src={nftImages.secondaryRobot1} alt="Robot" />
                 </div>
               </Col>
               <Col xs={4}>
                 <div>
-                  <img className='images' src={nftImages.secondaryRobot2} alt="Image of a robot" />
+                  <img className='images' src={nftImages.secondaryRobot2} alt="Robot" />
                 </div>
               </Col>
               <Col xs={4}>
@@ -120,7 +120,7 @@ function HomeSection2() {
             </Row>
             <div>
               <h5>DSGN Animals</h5>
-              <p className='creator'><img className='me-2' src={nftImages.avatar2} alt="Image of a robot" /> BeKind2Robots</p>
+              <p className='creator'><img className='me-2' src={nftImages.avatar2} alt="Robot" /> BeKind2Robots</p>
             </div>
           </Col>
 

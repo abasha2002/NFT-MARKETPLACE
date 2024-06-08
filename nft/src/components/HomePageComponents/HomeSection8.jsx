@@ -10,7 +10,7 @@ function HomeSection8() {
       <Container className='wrapper'>
         <Row>
 					<Col md={5} xs={12}>
-						<img className='astronaut' src={astronaut} alt="image of an astronaut reading newspaper" />
+						<img className='astronaut' src={astronaut} alt="Astronaut reading newspaper" />
 					</Col>
 					<Col md={7} xs={12}>
 						<div className='content'>

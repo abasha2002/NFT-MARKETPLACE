@@ -66,7 +66,7 @@ function Rankings() {
 									<div className='number'>
 										<span>1</span>
 									</div>
-									<img src={profilePics.profile1} alt="profile picture of a girl" />
+									<img src={profilePics.profile1} alt="girl" />
 									<h3>Jaydon Bothman</h3>
 								</Col>
 								<Col md={2} className="d-none d-md-flex align-items-center">
@@ -87,7 +87,7 @@ function Rankings() {
 									<div className='number'>
 										<span>2</span>
 									</div>
-									<img src={profilePics.profile2} alt="profile picture of a boy" />
+									<img src={profilePics.profile2} alt="Boy" />
 									<h3>Ruben Carder</h3>
 								</Col>
 								<Col md={2} className="d-none d-md-flex align-items-center">
@@ -108,7 +108,7 @@ function Rankings() {
 									<div className='number'>
 										<span>3</span>
 									</div>
-									<img src={profilePics.profile3} alt="profile picture of a girl" />
+									<img src={profilePics.profile3} alt="Girl" />
 									<h3>Alfredo Septimus</h3>
 								</Col>
 								<Col md={2} className="d-none d-md-flex align-items-center">
@@ -129,7 +129,7 @@ function Rankings() {
 									<div className='number'>
 										<span>4</span>
 									</div>
-									<img src={profilePics.profile4} alt="profile picture of a girl" />
+									<img src={profilePics.profile4} alt="Girl" />
 									<h3>Davis Franci</h3>
 								</Col>
 								<Col md={2} className="d-none d-md-flex align-items-center">
@@ -150,7 +150,7 @@ function Rankings() {
 									<div className='number'>
 										<span>5</span>
 									</div>
-									<img src={profilePics.profile5} alt="profile picture of a robot" />
+									<img src={profilePics.profile5} alt="Robot" />
 									<h3>Livia Rosser</h3>
 								</Col>
 								<Col md={2} className="d-none d-md-flex align-items-center">
@@ -171,7 +171,7 @@ function Rankings() {
 									<div className='number'>
 										<span>6</span>
 									</div>
-									<img src={profilePics.profile6} alt="profile picture of a fox" />
+									<img src={profilePics.profile6} alt="Fox" />
 									<h3>Kianna Donin</h3>
 								</Col>
 								<Col md={2} className="d-none d-md-flex align-items-center">
@@ -192,7 +192,7 @@ function Rankings() {
 									<div className='number'>
 										<span>7</span>
 									</div>
-									<img src={profilePics.profile7} alt="profile picture of a boy" />
+									<img src={profilePics.profile7} alt="Boy" />
 									<h3>Phillip Lipshutz</h3>
 								</Col>
 								<Col md={2} className="d-none d-md-flex align-items-center">
@@ -213,7 +213,7 @@ function Rankings() {
 									<div className='number'>
 										<span>8</span>
 									</div>
-									<img src={profilePics.profile8} alt="profile picture of a robot" />
+									<img src={profilePics.profile8} alt="Robot" />
 									<h3>Maria Rosser</h3>
 								</Col>
 								<Col md={2} className="d-none d-md-flex align-items-center">
@@ -234,7 +234,7 @@ function Rankings() {
 									<div className='number'>
 										<span>9</span>
 									</div>
-									<img src={profilePics.profile9} alt="profile picture of a robot" />
+									<img src={profilePics.profile9} alt="Robot" />
 									<h3>Kianna Stanton</h3>
 								</Col>
 								<Col md={2} className="d-none d-md-flex align-items-center">
@@ -255,7 +255,7 @@ function Rankings() {
 									<div className='number'>
 										<span>10</span>
 									</div>
-									<img src={profilePics.profile13} alt="profile picture of a boy" />
+									<img src={profilePics.profile13} alt="Boy" />
 									<h3>Angel Lubin</h3>
 								</Col>
 								<Col md={2} className="d-none d-md-flex align-items-center">
@@ -276,7 +276,7 @@ function Rankings() {
 									<div className='number'>
 										<span>11</span>
 									</div>
-									<img src={profilePics.profile14} alt="profile picture of a robot" />
+									<img src={profilePics.profile14} alt="Robot" />
 									<h3>Allison Torff</h3>
 								</Col>
 								<Col md={2} className="d-none d-md-flex align-items-center">
@@ -297,7 +297,7 @@ function Rankings() {
 									<div className='number'>
 										<span>12</span>
 									</div>
-									<img src={profilePics.profile15} alt="profile picture of a robot" />
+									<img src={profilePics.profile15} alt="Robot" />
 									<h3>Davis Workman</h3>
 								</Col>
 								<Col md={2} className="d-none d-md-flex align-items-center">
@@ -318,7 +318,7 @@ function Rankings() {
 									<div className='number'>
 										<span>13</span>
 									</div>
-									<img src={profilePics.profile16} alt="profile picture of a dog" />
+									<img src={profilePics.profile16} alt="Dog" />
 									<h3>Lindsey Lipshutz</h3>
 								</Col>
 								<Col md={2} className="d-none d-md-flex align-items-center">
@@ -339,7 +339,7 @@ function Rankings() {
 									<div className='number'>
 										<span>14</span>
 									</div>
-									<img src={profilePics.profile10} alt="profile picture of a masked person" />
+									<img src={profilePics.profile10} alt="Masked person" />
 									<h3>Randy Carder</h3>
 								</Col>
 								<Col md={2} className="d-none d-md-flex align-items-center">
@@ -360,7 +360,7 @@ function Rankings() {
 									<div className='number'>
 										<span>15</span>
 									</div>
-									<img src={profilePics.profile11} alt="profile picture of a girl" />
+									<img src={profilePics.profile11} alt="Girl" />
 									<h3>Lydia Culhane</h3>
 								</Col>
 								<Col md={2} className="d-none d-md-flex align-items-center">
@@ -381,7 +381,7 @@ function Rankings() {
 									<div className='number'>
 										<span>16</span>
 									</div>
-									<img src={profilePics.profile17} alt="profile picture of a girl" />
+									<img src={profilePics.profile17} alt="Girl" />
 									<h3>Rayna Bator</h3>
 								</Col>
 								<Col md={2} className="d-none d-md-flex align-items-center">
@@ -402,7 +402,7 @@ function Rankings() {
 									<div className='number'>
 										<span>17</span>
 									</div>
-									<img src={profilePics.profile12} alt="profile picture of a boy" />
+									<img src={profilePics.profile12} alt="Boy" />
 									<h3>Jocelyn Westervelt</h3>
 								</Col>
 								<Col md={2} className="d-none d-md-flex align-items-center">
@@ -423,7 +423,7 @@ function Rankings() {
 									<div className='number'>
 										<span>18</span>
 									</div>
-									<img src={profilePics.profile1} alt="profile picture of a girl" />
+									<img src={profilePics.profile1} alt="Girl" />
 									<h3>Marilyn Torff</h3>
 								</Col>
 								<Col md={2} className="d-none d-md-flex align-items-center">
@@ -444,7 +444,7 @@ function Rankings() {
 									<div className='number'>
 										<span>19</span>
 									</div>
-									<img src={profilePics.profile13} alt="profile picture of a boy" />
+									<img src={profilePics.profile13} alt="Boy" />
 									<h3>Skylar Levin</h3>
 								</Col>
 								<Col md={2} className="d-none d-md-flex align-items-center">
@@ -465,7 +465,7 @@ function Rankings() {
 									<div className='number'>
 										<span>20</span>
 									</div>
-									<img src={profilePics.profile3} alt="profile picture of a girl" />
+									<img src={profilePics.profile3} alt="Girl" />
 									<h3>Terry Dorwart</h3>
 								</Col>
 								<Col md={2} className="d-none d-md-flex align-items-center">

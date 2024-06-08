@@ -25,13 +25,7 @@ function Header() {
 							<Link className='nav-links' to='/rankings' >Ranking</Link>
 							<Link className='nav-links' to='/wallet' >Connect a Wallet</Link>
               <div className='headerLine'></div>
-							<Link className='nav-links' to='/login' >
-								{/* <button className='nav_button'>
-									<img className='me-2' src={userIcon} alt="user icon" />
-									Sign up
-								</button> */}
-                Log Out
-							</Link>
+							<Link className='nav-links' to='/login' >Log Out</Link>
             </Nav>
         </Navbar.Collapse>
       </Container>

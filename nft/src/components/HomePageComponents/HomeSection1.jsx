@@ -12,8 +12,8 @@ function HomeSection1() {
           <Col lg={5} md={12}>
             <h1>Discover digital art & Collect NFTs</h1>
             <p className='mt-4'>NFT marketplace UI created with Anima for Figma. Collect, buy and sell art from more than 20k NFT artists.</p>
-            <img className='gif mobileGif' src={gifImage} alt="users profile animated" />
-            <button className="getStartedButton d-flex align-items-center"><img src={RocketIcon} className='me-3' alt="rocket icon" />Get Started</button>
+            <img className='gif mobileGif' src={gifImage} alt="Users profile animated" />
+            <button className="getStartedButton d-flex align-items-center"><img src={RocketIcon} className='me-3' alt="Rocket icon" />Get Started</button>
             <div className="followers mt-4 d-flex">
               <div>
                 <h4>240K+</h4>
@@ -31,7 +31,7 @@ function HomeSection1() {
           </Col>
           <Col lg={1} md={12}></Col>
           <Col lg={6} className='desktopGif'>
-            <img className='gif' src={gifImage} alt="users profile animated" />
+            <img className='gif' src={gifImage} alt="Users profile animated" />
           </Col>
         </Row>
       </Container>

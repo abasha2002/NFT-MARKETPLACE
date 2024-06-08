@@ -30,7 +30,7 @@ function HomeSection3() {
                 </div>
 
                 <div>
-                  <img src={profilePics.profile1} alt="user profile picture" />
+                  <img src={profilePics.profile1} alt="Girl" />
                 </div>
                 <div className='userProfileInfo'>
                   <h5>Keepitreal</h5>
@@ -49,7 +49,7 @@ function HomeSection3() {
                 </div>
 
                 <div>
-                  <img src={profilePics.profile2} alt="user profile picture" />
+                  <img src={profilePics.profile2} alt="Boy" />
                 </div>
                 <div className='userProfileInfo'>
                   <h5>DigiLab</h5>
@@ -69,7 +69,7 @@ function HomeSection3() {
                 </div>
 
                 <div>
-                  <img src={profilePics.profile3} alt="user profile picture" />
+                  <img src={profilePics.profile3} alt="Girl" />
                 </div>
                 <div className='userProfileInfo'>
                   <h5>GravityOne</h5>
@@ -89,7 +89,7 @@ function HomeSection3() {
                 </div>
 
                 <div>
-                  <img src={profilePics.profile4} alt="user profile picture" />
+                  <img src={profilePics.profile4} alt="Girl" />
                 </div>
                 <div className='userProfileInfo'>
                   <h5>Juanie</h5>
@@ -108,7 +108,7 @@ function HomeSection3() {
                 </div>
 
                 <div>
-                  <img src={profilePics.profile5} alt="user profile picture" />
+                  <img src={profilePics.profile5} alt="Boy" />
                 </div>
                 <div className='userProfileInfo'>
                   <h5>BlueWhale</h5>
@@ -127,7 +127,7 @@ function HomeSection3() {
                 </div>
 
                 <div>
-                  <img src={profilePics.profile6} alt="user profile picture" />
+                  <img src={profilePics.profile6} alt="Fox" />
                 </div>
                 <div className='userProfileInfo'>
                   <h5>Mr Fox</h5>
@@ -147,7 +147,7 @@ function HomeSection3() {
                 </div>
 
                 <div>
-                  <img src={profilePics.profile7} alt="user profile picture" />
+                  <img src={profilePics.profile7} alt="Boy" />
                 </div>
                 <div className='userProfileInfo'>
                   <h5>Shroomie</h5>
@@ -167,7 +167,7 @@ function HomeSection3() {
                 </div>
 
                 <div>
-                  <img src={profilePics.profile8} alt="user profile picture" />
+                  <img src={profilePics.profile8} alt="Robot" />
                 </div>
                 <div className='userProfileInfo'>
                   <h5>Robotica</h5>
@@ -187,7 +187,7 @@ function HomeSection3() {
                 </div>
 
                 <div>
-                  <img src={profilePics.profile9} alt="user profile picture" />
+                  <img src={profilePics.profile9} alt="Robot" />
                 </div>
                 <div className='userProfileInfo'>
                   <h5>RustyRobot</h5>
@@ -207,7 +207,7 @@ function HomeSection3() {
                 </div>
 
                 <div>
-                  <img src={profilePics.profile10} alt="user profile picture" />
+                  <img src={profilePics.profile10} alt="Masked boy" />
                 </div>
                 <div className='userProfileInfo'>
                   <h5>AnimaKid</h5>
@@ -227,7 +227,7 @@ function HomeSection3() {
                 </div>
 
                 <div>
-                  <img src={profilePics.profile11} alt="user profile picture" />
+                  <img src={profilePics.profile11} alt="Girl" />
                 </div>
                 <div className='userProfileInfo'>
                   <h5>Dotgu</h5>
@@ -247,7 +247,7 @@ function HomeSection3() {
                 </div>
 
                 <div>
-                  <img src={profilePics.profile12} alt="user profile picture" />
+                  <img src={profilePics.profile12} alt="Boy" />
                 </div>
                 <div className='userProfileInfo'>
                   <h5>Ghiblier</h5>
